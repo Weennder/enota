@@ -19,8 +19,8 @@ Fith Floor, Boston, MA 02110-1301, USA
 */
 ?>
 <?php
-$HOST = "";
-$USUARIO = "";
-$SENHA = "";
-$BANCO = "";
+$HOST = "localhost";
+$USUARIO = "root";
+$SENHA = "iacl";
+$BANCO = "prefeitura";
 ?>
