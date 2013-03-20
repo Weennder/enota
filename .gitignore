@@ -1,0 +1,14 @@
+STA CRIADA PELO NETBEANS #
+##############################
+nbproject/*
+
+# ARQUIVOS                   #
+##############################
+*.pdf
+
+# PASTA CRIADA PELO ECLIPSE  #
+##############################
+.buildpath
+.project
+.settings/*
+
